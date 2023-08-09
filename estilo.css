@@ -80,14 +80,14 @@ li:hover {
     background-color: #405258;
 }
 #imagem_fundo {
-    background: url("img/agua\ potavel.png");
+    background: url("agua\ potavel.png");
     height: 100%;
     text-align: left;
     background-size: cover;
 }
 
 #imagem_fundo2 {
-    background: url("img/pure-blue-background-0000ff-cfbe25a1.jpg");
+    background: url("pure-blue-background-0000ff-cfbe25a1.jpg");
     height: 100%;
     text-align: center;
     background-size: cover;
